@@ -1,0 +1,30 @@
+.bode{
+    margin: 0%;
+}
+.style-title{
+    color: green;
+    font-size: 30px;
+}
+.style-icon{
+    color: green;
+    font-size: 20px;
+    position: relative;
+    top: 8px;
+    right: 5px;
+}
+.card-info{
+    height: 290px;  
+    position: relative;
+    top: 400px;
+    left: -500px;
+    color: #fff;
+}
+.div-image{
+    width: 65%;
+}
+#div-conteudo{
+    border: 1px solid blue;
+    margin-top: 10%;
+    margin-left: 10%;
+   
+}
